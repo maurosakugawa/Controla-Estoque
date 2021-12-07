@@ -1,0 +1,32 @@
+.btn-editar{
+    color: #fff !important;
+}
+
+.box-position {
+    max-width: 500px;
+    height: auto;
+    left: 50%;
+    margin: -200px 0 0 -210px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    border: 2px solid #f3f3f3;
+    border-radius: 15px;
+    -webkit-box-shadow: 10px 10px 47px -3px rgba(161, 161, 161, 1);
+    -moz-box-shadow: 10px 10px 47px -3px rgba(161, 161, 161, 1);
+    box-shadow: 10px 10px 47px -3px rgba(161, 161, 161, 1);
+}
+
+.pad-20-mwid-800 {
+    padding:20px 0;
+    max-width:800px;
+}
+
+.centralizing {
+    text-align:center
+}
+
+.pad20-marg35 {
+    padding:0 0 20px 0;
+    margin-bottom:35px;
+}
